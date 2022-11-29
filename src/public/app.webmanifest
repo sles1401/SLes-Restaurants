@@ -1,0 +1,30 @@
+{
+    "id": "sles-food-pwa",
+    "start_url": "./index.html",
+    "name": "Restaurant List",
+    "short_name": "Rest List",
+    "description": "List Restaurant for you",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#D84315",
+    "icons": [
+        {
+            "src": "/icons/icons8-circled-s-24.png",
+            "sizes": "24x24",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icons8-circled-s-96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/s.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
