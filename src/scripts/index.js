@@ -2,6 +2,7 @@
 /* eslint-disable no-alert */
 /* eslint-disable no-use-before-define */
 /* eslint-disable import/no-cycle */
+import WebSocketInitiator from './utils/websocket-initiator';
 import CONFIG from './globals/config';
 import App from './views/app';
 import swRegister from '../scripts/utils/sw-register';
