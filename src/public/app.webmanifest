@@ -1,6 +1,6 @@
 {
     "id": "sles-food-pwa",
-    "start_url": "./index.html",
+    "start_url": "../template/index.html",
     "name": "Restaurant List",
     "short_name": "Rest List",
     "description": "List Restaurant for you",
