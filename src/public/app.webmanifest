@@ -21,7 +21,7 @@
             "purpose": "any"
         },
         {
-            "src": "/icons/s.png",
+            "src": "./icons/s.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
